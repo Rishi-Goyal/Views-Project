@@ -1,3 +1,2 @@
 # Views-Project
-Python Project to increase views on YouTube
-It uses the selenium library.
+Python Project to increase views on YouTube, which uses the selenium library.
