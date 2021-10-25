@@ -11,7 +11,7 @@ import time
 i = 0
 #a = ["https://www.youtube.com/embed/epOiQE8O38A","https://www.youtube.com/embed/RQksHlIenpI", "https://www.youtube.com/embed/DrdM2ui0pZ4"]
 z= 0
-a = ["https://www.youtube.com/embed/B7x6jDqB_Wc"]
+a = ["https://www.youtube.com/embed/B7x6jDqB_Wc"] #embed link of the video which you want to increase views of
 
 for i in range(100):
     driver = webdriver.Firefox()
